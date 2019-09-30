@@ -1,5 +1,6 @@
 # SkyTest
 Answer for test
+
 --執行環境--
 
 Google Chrome版本:77.0.3865.90
@@ -7,8 +8,7 @@ chromedriver版本:2.42.591088
 
 Firefox版本:69.0.1
 geckodriver:v0.25
-(＊如果不是使用最新版本的Firefox，可能會於執行時報錯。
-   請於更新至最新版本後再次嘗試執行。                  )
+(＊如果不是使用最新版本的Firefox，可能會於執行時報錯。請於更新至最新版本後再次嘗試執行。)
 
 
 --執行步驟--
